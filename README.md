@@ -1,5 +1,5 @@
 # Data-driven argument of Best Neighborhood in Pittsburgh
-Repository for Runtime Terror (Group 4) Big Ideas in Computing and Information Final Project
+Big Ideas in Computing and Information Final Project
 
 Group Members: Akshobh Kulkarni, Anthony Lucchitti, and Ken Shegogue
 
